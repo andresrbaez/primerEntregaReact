@@ -3,7 +3,7 @@ import './App.css'
 import QuoteBox from './components/QuoteBox';
 // import quotes from './quotes.json'
 
-const colors = ["#5539A5", "#322F20", "#6A5837", "#988F2A", "#ffc75f", "#C28E70", "#90905C"]
+const colors = ["#5539A5", "#322F20", "#6A5837", "#988F2A", "#ffc75f", "#C28E70", "#90905C", "#4b4453", "#b0a8b9", "#c34a36"]
 
 function App() {
 
